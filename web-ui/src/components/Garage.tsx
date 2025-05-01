@@ -120,7 +120,7 @@ function Garage() {
               transition={{ duration: 0.4, delay: 0.3 }}
             >
               <GarageButton
-                label="Spawn"
+                label="Retirar"
                 color="green"
                 onClick={() => alert("Spawn")}
               />
