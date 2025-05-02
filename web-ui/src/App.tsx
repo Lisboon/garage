@@ -1,4 +1,4 @@
-import Garage from "./components/Garage";
+import Garage from "./pages/Garage";
 
 function App() {
   return <Garage />;
