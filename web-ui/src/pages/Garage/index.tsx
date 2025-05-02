@@ -16,7 +16,7 @@ function Garage() {
   return (
     <div className="h-screen w-screen bg-black text-white flex items-center justify-center font-sans">
       <div className="w-[90vw] max-w-[1280px] h-[90vh] bg-black/80 rounded-2xl shadow-2xl p-10 flex flex-col justify-between overflow-hidden border-4 border-lime-400">
-      <TopBar name="Jose" avatar="https://cdn.discordapp.com/attachments/1326903184664297532/1367403758904021013/Z.png?ex=6814757d&is=681323fd&hm=402093ef6d772440847313131fd18d151b64100c3a82a9309571a0e2ede49289&"/>
+      <TopBar name="Lisboa" avatar="https://cdn.discordapp.com/attachments/1326903184664297532/1367403758904021013/Z.png?ex=6814757d&is=681323fd&hm=402093ef6d772440847313131fd18d151b64100c3a82a9309571a0e2ede49289&"/>
         {/* Corpo principal com 3 colunas */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center flex-1">
           <div>
